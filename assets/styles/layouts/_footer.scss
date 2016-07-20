@@ -1,0 +1,27 @@
+
+footer{
+  background:#333;
+  padding:20px;
+}
+
+.footer_title,.footer_item, .footer_item li>a{
+  color:white;
+  list-style: none;
+  text-align: center;
+  padding: 0
+}
+
+.footer_item{
+  li{
+    margin:10px;
+  }
+  .social{
+    font-size:40px;
+  }
+}
+
+.social{
+  a{
+    color:white;
+  }
+}
